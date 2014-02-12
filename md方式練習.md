@@ -24,5 +24,5 @@ Googleに飛ぶリンク
 
 ##画像  
 リンクの先頭にエクスクラメーション・マーク(!)を付ける．  
-![きつねの画像](C:\Users\yuhdai\Pictures\きつね\自分のスナップショット 1.png"きつね")
+![きつねの画像](http://blog-imgs-42-origin.fc2.com/r/e/a/realgraphica/R0011210.jpg"きつね")
 
