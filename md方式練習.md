@@ -24,5 +24,5 @@ Googleに飛ぶリンク
 
 ##画像  
 リンクの先頭にエクスクラメーション・マーク(!)を付ける．  
-<C:\Users\yuhdai\Pictures\きつね\自分のスナップショット 1.png>
+[きつねの画像](C:\Users\yuhdai\Pictures\きつね\自分のスナップショット 1.png"きつね")
 
