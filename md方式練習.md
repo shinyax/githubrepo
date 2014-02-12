@@ -19,10 +19,9 @@ Googleに飛ぶリンク
 <https://www.google.co.jp/>  
 
 ###参照リンク
-まだよくわからない．  
-書き方は\[リンクのテキスト\](リンクのアドレス"リンクのタイトル")  
+[ここ](https://github.com/suhsanv)より鈴木雄大のページへ飛べる．  
 
 ##画像  
 リンクの先頭にエクスクラメーション・マーク(!)を付ける．  
-![きつねの画像](http://blog-imgs-42-origin.fc2.com/r/e/a/realgraphica/R0011210.jpg"キツネ村")
+まだできない．  
 
