@@ -23,5 +23,3 @@ Googleに飛ぶリンク
 
 ##画像  
 リンクの先頭にエクスクラメーション・マーク(!)を付ける．  
-まだできない．  
-![google](http://www.google.com/images/logo.gif"ロゴ")  
